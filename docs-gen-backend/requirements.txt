@@ -1,0 +1,4 @@
+Flask
+langchain
+github3
+Flask-CORS
