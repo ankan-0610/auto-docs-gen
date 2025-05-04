@@ -1,4 +1,6 @@
 Flask
 langchain
 github3
+tree-sitter
+tree-sitter-python
 Flask-CORS
